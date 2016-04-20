@@ -1,0 +1,1 @@
+I am going to be creating a text based fantasy adventure game like those of the 80s. It will incorporate a system where you choose your class and will be able to fight monster on your journey to discover the treasure at the end of the dungeon.
